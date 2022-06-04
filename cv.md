@@ -58,7 +58,7 @@ I'm Yana, I'm 24 and in 2021 I started my carreer in IT as Technical Support Eng
 
 * 2015-2019 - RANEPA, St. Petersburg - Public Administration
 
-
+---
 
 ### Languages
 
