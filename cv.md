@@ -65,5 +65,6 @@ I'm Yana, I'm 24 and in 2021 I started my carreer in IT as Technical Support Eng
 * Russian - Native
 * English - C1
 * German - B2
+* Georgian - A1
 
 <img src="https://images.opencollective.com/rsschool/c60db11/background.png" width="100" height="100" alt="https://rs.school/index.html">
