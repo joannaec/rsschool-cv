@@ -52,7 +52,7 @@ function colourAssociation(array) {
 * Italian - B1
 * German - B1
 
-
+![RSSchool log](https://images.opencollective.com/rsschool/5a80339/background.png)
 
 
 
