@@ -11,7 +11,7 @@
 ___________________
 
 ### About myself
-I’m Yana, I’m 28 and in 2021, I started my career in IT as a Technical Support Engineer. Within a year, I advanced to Tier 2 Support Engineer, and now I would like to dive into Frontend Development to gain new skills.
+I’m Yana, I’m 28 and in 2021, I started my career in IT as a Technical Support Engineer. Within a year, I advanced to Tier II Support Engineer, and now I would like to dive into Frontend Development to gain new skills.
 
 
 ### Code examples
